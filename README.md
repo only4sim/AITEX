@@ -1,2 +1,2 @@
 # AITEX
-Team AITEX for smartins
+We created SmartIns, an automatic agricultural insurance inferred from DL model on the blockchain . Using Blockchain, Machine Learning and Cloud Storage, we created an agricultural disaster insurance that uses the smart contract as insurance clause and AI inferential index as insurance basis. Using Blockchain and Machine Learning, the entire process of insurance from insurance to claims is objective and automatic, which breaks the trust paradox in agricultural insurance. Since all smart contract, model and data are stored on the cloud, the trained model can be used in many places.
